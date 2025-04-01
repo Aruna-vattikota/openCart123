@@ -1,0 +1,12 @@
+C:\Users\vatti\eclipse-workspace\openCart123\src\test\java\pageObjects\AccountRegistrationPage.java
+C:\Users\vatti\eclipse-workspace\openCart123\src\test\java\pageObjects\BasePage.java
+C:\Users\vatti\eclipse-workspace\openCart123\src\test\java\pageObjects\HomePage.java
+C:\Users\vatti\eclipse-workspace\openCart123\src\test\java\pageObjects\LoginPage.java
+C:\Users\vatti\eclipse-workspace\openCart123\src\test\java\pageObjects\MyAccountPage.java
+C:\Users\vatti\eclipse-workspace\openCart123\src\test\java\testBase\BaseClass.java
+C:\Users\vatti\eclipse-workspace\openCart123\src\test\java\testCases\TC001_AccountRegistrationTesrt.java
+C:\Users\vatti\eclipse-workspace\openCart123\src\test\java\testCases\TC002_LoginTest.java
+C:\Users\vatti\eclipse-workspace\openCart123\src\test\java\testCases\TC003_LoginDDT.java
+C:\Users\vatti\eclipse-workspace\openCart123\src\test\java\utilities\DataProvider.java
+C:\Users\vatti\eclipse-workspace\openCart123\src\test\java\utilities\ExcelUtility.java
+C:\Users\vatti\eclipse-workspace\openCart123\src\test\java\utilities\ExtentReportManager.java
